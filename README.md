@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=chitransh6)
 
 <!--
 **Chitransh6/Chitransh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
